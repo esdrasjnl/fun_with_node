@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.5",
+    "node-fetch": "^2.6.1",
+    "uuid": "^9.0.0"
+  },
+  "name": "fun_with_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esdrasjnl/fun_with_node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esdrasjnl/fun_with_node/issues"
+  },
+  "homepage": "https://github.com/esdrasjnl/fun_with_node#readme",
+  "description": ""
+}
